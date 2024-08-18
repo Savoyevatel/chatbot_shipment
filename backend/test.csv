@@ -1,0 +1,25 @@
+﻿ID,Country,Shipment Mode,Scheduled Delivery Date,Delivered to Client Date,Delivery Recorded Date,Pack Price,Unit Price,Manufacturing Site
+4594,Guyana,Air,2008-10-01,2008-10-01,2008-10-01,32.0,1.6,"Trinity Biotech, Plc"
+7847,Namibia,Air,2009-08-18,2009-08-18,2009-08-18,2.4,0.04,"Cipla, Goa, India"
+9024,South Africa,Air,2009-04-03,2009-04-03,2009-04-03,2.47,0.04,"Aurobindo Unit III, India"
+10765,Nigeria,Air Charter,2009-05-08,2009-05-08,2009-05-08,26.25,0.88,"Aspen-OSD, Port Elizabeth, SA"
+11510,Zambia,Air,2007-12-24,2007-12-24,2007-12-24,26.25,0.88,"Aspen-OSD, Port Elizabeth, SA"
+12561,Zambia,Truck,2008-11-07,2008-11-07,2008-11-07,7.75,0.13,"Aurobindo Unit III, India"
+12771,Uganda,Air,2008-02-15,2008-02-15,2008-02-15,7.4,0.12,"Cipla, Goa, India"
+25522,Vietnam,Air,2011-02-09,2011-02-09,2011-02-09,2.43,0.04,Hetero Unit III Hyderabad IN
+44180,Cameroon,Air,2013-10-18,2013-10-18,2013-10-18,2.25,0.04,"Aurobindo Unit III, India"
+46464,Côte d'Ivoire,Air,2012-02-17,2012-02-17,2012-02-17,80.0,0.8,"Alere Medical Co., Ltd."
+55322,South Africa,Air,2010-09-07,2010-10-27,2010-10-27,4.67,0.16,"Aurobindo Unit III, India"
+57997,Tanzania,Air,2013-06-25,2013-06-25,2013-06-25,80.0,0.8,"Alere Medical Co., Ltd."
+60357,South Sudan,Air,2013-11-08,2013-11-08,2013-11-11,5.0,5.0,"Alere Medical Co., Ltd."
+61852,Guyana,Air,2015-08-28,2015-08-28,2015-08-28,100.0,1.0,"Alere Medical Co., Ltd."
+64936,Vietnam,Air,2013-10-03,2013-10-03,2013-10-04,60.82,0.51,ABBVIE Ludwigshafen Germany
+67225,South Sudan,Air,2015-07-25,2015-07-25,2015-07-29,32.0,1.6,"Trinity Biotech, Plc"
+76559,Vietnam,Air,2013-02-01,2013-02-01,2013-02-01,2.25,0.04,Mylan (formerly Matrix) Nashik
+78839,Vietnam,Air,2014-05-30,2014-05-30,2014-05-31,4.0,0.13,Mylan (formerly Matrix) Nashik
+79445,Sudan,Air,2012-01-06,2012-01-06,2012-01-06,8.0,0.08,"Alere Medical Co., Ltd."
+82694,Nigeria,Air Charter,2014-06-30,2014-06-20,2014-06-25,8.11,0.14,"Aurobindo Unit III, India"
+83081,South Sudan,Air,2012-11-15,2012-10-23,2012-10-23,6.76,0.11,Hetero Unit III Hyderabad IN
+84367,Rwanda,Truck,2014-06-27,2014-07-06,2014-08-05,4.64,0.15,Hetero Unit III Hyderabad IN
+84773,Uganda,Air,2013-02-01,2013-02-01,2013-02-01,2.42,0.04,Hetero Unit III Hyderabad IN
+85509,Mozambique,Truck,2014-08-29,2014-08-25,2014-08-28,8.11,0.14,Mylan (formerly Matrix) Nashik

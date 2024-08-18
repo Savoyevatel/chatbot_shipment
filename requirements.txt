@@ -1,0 +1,10 @@
+django
+djangorestframework
+langchain
+langchain-groq
+python-dotenv
+langchain-community
+djangorestframework-simplejwt
+django-cors-headers
+openai
+langchain-core
